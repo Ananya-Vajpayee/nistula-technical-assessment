@@ -1,6 +1,5 @@
 # Nistula Technical Assessment
 Submitted by: Ananya Vajpayee
-
 This repository contains all three parts of the Nistula backend technical assessment.
 
 ```
@@ -18,7 +17,6 @@ nistula-technical-assessment/
 ---
 
 ## Part 1 — Guest Message Handler
-
 ### Setup
 
 ```bash
@@ -133,7 +131,6 @@ Notable: the pet policy test (Test 5) had no answer in the property context. Cla
 ---
 
 ## Part 2 — Database Schema
-
 See [`schema.sql`](./schema.sql) for full PostgreSQL `CREATE TABLE` statements with inline comments.
 
 **Tables at a glance:**
