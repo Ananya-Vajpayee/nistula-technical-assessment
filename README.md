@@ -1,5 +1,4 @@
 # Nistula Technical Assessment
-
 Submitted by: Ananya Vajpayee
 
 This repository contains all three parts of the Nistula backend technical assessment.
