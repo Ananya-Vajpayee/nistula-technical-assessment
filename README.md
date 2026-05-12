@@ -154,3 +154,6 @@ See [`schema.sql`](./schema.sql) for full PostgreSQL `CREATE TABLE` statements w
 ## Part 3 — Thinking
 
 See [`thinking.md`](./thinking.md).
+- **Q A** — Acknowledge fast, promise concrete action (caretaker in 30 mins), validate refund without committing. Human tone, not policy.
+- **Q B** — Force-escalate, alert caretaker + manager via WhatsApp/SMS, start 30-min timer, log every action for audit trail.
+- **Q C** — Third complaint = property problem. Trigger a maintenance task, not just a notification. AI handles the guest; the system must fix the root cause.
